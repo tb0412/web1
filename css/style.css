@@ -1,0 +1,149 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+
+h1 {
+  margin: 0 auto 0 auto;
+  font-family: 'Sacramento', cursive;
+}
+
+h2 {
+  font-family: 'Montserrat', sans-serif;
+}
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+}
+
+hr {
+  margin-top: 0;
+  margin-bottom: 0;
+  border-bottom: 0;
+}
+
+.top-container {
+  background-color: #defcfc;
+  position: relative;
+  padding-top: 100px;
+}
+
+.middle-container {
+  position: relative;
+  padding-top: 0;
+  padding-bottom: 10px;
+  background-color: #F0FFF0;
+  margin-top: 0;
+}
+
+.bottom-container {
+  position: relative;
+  bottom: 0;
+  height: 250px;
+  width: 100%;
+  background-color: #f5e4c3;
+}
+
+.web {
+  font-family: 'Charm', cursive;
+}
+
+.bottomcloud {
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+}
+
+.email{
+  position: relative;
+  top: 25px;
+  display: inline-block;
+  width: 40px;
+}
+
+.topcloud {
+  position: absolute;
+  right: 300px;
+  top: 40px;
+}
+
+.mountain {
+  position: relative;
+  top: 4px;
+}
+
+.meet{
+  position: relative;
+  top:15px;
+  display: inline-block;
+  width: 40px;
+}
+
+.Skills {
+  position: absolute;
+  top: 800px;
+}
+
+.tools{
+  position: relative;
+  top: 15px;
+  display: inline-block;
+  width: 40px;
+}
+
+.profile {
+  position: relative;
+  bottom: 10px;
+}
+
+.hello {
+  text-align: center;
+  position: relative;
+  top: 10px;
+}
+
+.skill-row {
+  position: relative;
+  bottom: 30px;
+  padding-top: 0;
+}
+
+.my {
+  position: relative;
+  top: 20px;
+  height: 150px;
+  width: 150px;
+  border-radius: 100px;
+}
+
+.contact {
+  position: relative;
+  top: 20px;
+}
+
+.copyright {
+  position: relative;
+  top: 65px;
+  margin-bottom: 0;
+  display: inline-block;
+  width: 800px;
+  color: red;
+}
+
+.footer {
+  position: relative;
+  top: 30px;
+}
+
+.footer-link1 {
+  padding-right: 10px;
+}
+
+.footer-link2 {
+  padding-left: 10px;
+}
+
+.touch{
+  padding-bottom: 5px;
+}
